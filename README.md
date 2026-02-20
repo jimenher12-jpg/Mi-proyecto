@@ -2,5 +2,7 @@
 Mi primer repositorio publico!
 <h2>Agregue un titulo</h2> 
 <h1>Barberia M&A</h1>
-<p>Para el conflicto rama main, modificacion</p>
-<p>Citas</p>
+<p>Para el conflicto rama main. otro conflicto</p>
+<h2>Cortes</h2>
+<p>Diferentes tipos de cortes</p>
+
